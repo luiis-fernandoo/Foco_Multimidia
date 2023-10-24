@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Reserves>
+    <Reserve hotelCode="3" roomCode="1">
+        <CheckIn>2022-11-25</CheckIn>
+        <CheckOut>2022-11-27</CheckOut>
+        <Total>500.00</Total>
+        <Guests>
+            <Guest>
+                <Name>Fulaninho</Name>
+                <LastName>de Tal</LastName>
+                <Phone>5571995959595</Phone>
+            </Guest>
+        </Guests>
+        <Dailies>
+            <Daily>
+                <Date>2022-11-25</Date>
+                <Value>250.00</Value>
+            </Daily>
+            <Daily>
+                <Date>2022-11-26</Date>
+                <Value>250.00</Value>
+            </Daily>
+        </Dailies>
+	    <Payments>
+            <Payment>
+                <Method>0</Method>
+                <Value>0</Value>
+            </Payment>
+        </Payments>
+    </Reserve>
+    <Reserve hotelCode="3" roomCode="2">
+        <CheckIn>2022-10-01</CheckIn>
+        <CheckOut>2022-10-04</CheckOut>
+        <Total>450.00</Total>
+        <Guests>
+            <Guest>
+                <Name>Roberta</Name>
+                <LastName>Amarantes</LastName>
+                <Phone>5571992929292</Phone>
+            </Guest>
+        </Guests>
+        <Dailies>
+            <Daily>
+                <Date>2022-10-01</Date>
+                <Value>150.00</Value>
+            </Daily>
+            <Daily>
+                <Date>2022-10-02</Date>
+                <Value>150.00</Value>
+            </Daily>
+            <Daily>
+                <Date>2022-12-03</Date>
+                <Value>150.00</Value>
+            </Daily>
+        </Dailies>
+	    <Payments>
+            <Payment>
+                <Method>0</Method>
+                <Value>0</Value>
+            </Payment>
+        </Payments>
+    </Reserve>
+</Reserves>
